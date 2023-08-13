@@ -10,7 +10,7 @@ Keep the following details in mind:
 
 ## Language
 
-C++ (G++ v11.1.0)
+### C++ (G++ v11.1.0)
 
 We support G++ _v11.1.0_. Feel free to use ```unordered_map, regex, range for, auto ...``` features from C++11, 14 and 17 standards.
 
